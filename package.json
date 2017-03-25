@@ -1,0 +1,22 @@
+{
+  "name": "node-error-handling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --watch test.js --harmony test",
+    "start": "nodemon --watch index.js --watch other.js --watch context.js --harmony ."
+  },
+  "repository": "https://github.com/zen-experiments/node-error-handling.git",
+  "author": "Dmitry Nutels <dnutels@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async-hook": "^1.7.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "loadtest": "^2.3.0",
+    "nodemon": "^1.11.0"
+  }
+}
