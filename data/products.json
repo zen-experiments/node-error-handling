@@ -1,0 +1,18 @@
+[
+    {
+        "title": "iPhone 7",
+        "catalogID": "111"
+    },
+    {
+        "title": "iPhone 7 Plus",
+        "catalogID": "222"
+    },
+    {
+        "title": "Android 6.0.1 Marshmallow",
+        "catalogID": "444"
+    },
+    {
+        "title": "Android 7.1.1 Nougat",
+        "catalogID": "555"
+    }
+]

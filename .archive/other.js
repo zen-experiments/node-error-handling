@@ -1,7 +1,7 @@
 'use strict';
 
 const request = require('request');
-const {getContext, createContext} = require('./context');
+const {getContext} = require('./context');
 
 function getPosts(cb) {
     setTimeout(() => {

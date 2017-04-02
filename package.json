@@ -12,10 +12,16 @@
   "dependencies": {
     "async-hook": "^1.7.1",
     "express": "^4.15.2",
+    "lunr": "^1.0.0",
     "morgan": "^1.8.1",
-    "request": "^2.81.0"
+    "nedb": "^1.8.0",
+    "nedb-promise": "^2.0.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
+    "benchmark": "^2.1.4",
     "loadtest": "^2.3.0",
     "nodemon": "^1.11.0"
   }
